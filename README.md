@@ -24,3 +24,8 @@ Download Ventoy in this Github or offical homepage
 
 
 [![Watch the video](https://img.youtube.com/vi/-VZsIvAnSHo?si=lfBtzPBNooSuNkyk/hqdefault.jpg)](https://www.youtube.com/embed/-VZsIvAnSHo?si=lfBtzPBNooSuNkyk)
+
+## 3. Install ROS2 Humble
+
+[Follow the Github](https://github.com/jh00817/ubuntu-init-settings/tree/main)
+: Download and install ROS2 in ONESHOT
