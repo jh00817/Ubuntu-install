@@ -4,6 +4,7 @@ Explain how to install Ubuntu (22.04 LTS) by ventoy
 [Installation for Mac]()
 
 
+
 [한국어 Notion link](https://jh00817.notion.site/Ubuntu-22-04-3372d58c7d0246d9814429677901e710?pvs=4)
 
 ## 1. Prepare the base
