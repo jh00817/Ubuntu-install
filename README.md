@@ -1,7 +1,7 @@
 # Ubuntu-install for Windows
 Explain how to install Ubuntu (22.04 LTS) by ventoy
 
-[Installation for Mac]()
+[Installation for Mac](for-mac.md)
 
 
 
