@@ -16,6 +16,8 @@ Usually, we install `ubuntu 22.04 LTS, desktop`.
 
 [Download link](https://ubuntu.com/download/desktop)
 
+Download Ventoy in this Github or offical homepage
+
 ## 2. Install Ventoy in USB and Follow video
 
 [![Watch the video](https://img.youtube.com/vi/H-bQBWhl11U/hqdefault.jpg)](https://www.youtube.com/embed/H-bQBWhl11U)
